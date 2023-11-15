@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    color: white;
+    font-family: 'calibri';
+}
+
+header{
+    background-color: black;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+section{
+    max-width: 1000px;
+    margin: auto;
+    padding: 10px 0;
+
+
+}
+
+section h1{
+    font-size: 15px;
+}
+
+
+.buscar p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.botones {
+    text-align: right;
+   
+}
+
+.botones a {
+    
+    color:white;
+    text-decoration: none;
+    background: #0f9;
+    padding: 4px 20px;
+    border-radius: 30px;
+    font-size: 30px;
+    margin: 20px;
+ 
+
+    
+
+    
+}
+
