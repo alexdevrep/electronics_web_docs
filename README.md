@@ -1,14 +1,14 @@
 > [!NOTE]
 > AQUI PUEDO AÑADIR UNA NOTA
->
+
 > [!TIP]
->
-> 
+>HOLAA
+
 > [!IMPORTANT]
->
-> 
+>HOLAA
+
 > [!WARNING]
-> 
+> HOLAA
 
 
 # electronics_web_docs
