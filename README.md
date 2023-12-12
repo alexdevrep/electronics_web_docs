@@ -1,3 +1,5 @@
+> [!NOTE]
+> AQUI PUEDO AÑADIR UNA NOTA
 # electronics_web_docs
 
 Bienvenidos al repositorio original de electronics_web_docs
