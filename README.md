@@ -1,5 +1,16 @@
 > [!NOTE]
 > AQUI PUEDO AÑADIR UNA NOTA
+>
+> [!TIP]
+>
+> 
+> [!IMPORTANT]
+>
+> 
+> [!WARNING]
+> 
+
+
 # electronics_web_docs
 
 Bienvenidos al repositorio original de electronics_web_docs
